@@ -4,7 +4,6 @@ const App = () => {
 	return (
 		<div>
 			<GlobalStyles />
-			<h1>Curso de React</h1>
 		</div>
 	);
 };
