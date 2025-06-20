@@ -1,8 +1,8 @@
 export const COLORS = {
-    Red: 'hsl(0, 78%, 62%)',
-    Cyan: 'hsl(180, 62%, 55%)',
-    Orange: 'hsl(34, 97%, 64%)',
-    Blue: 'hsl(212, 86%, 64%)',
+    'Team Builder': 'hsl(0, 78%, 62%)',
+    Supervisor: 'hsl(180, 62%, 55%)',
+    Karma: 'hsl(34, 97%, 64%)',
+    Calculator: 'hsl(212, 86%, 64%)',
 
     Grey500: 'hsl(234, 12%, 34%)',
     Grey400: 'hsl(212, 6%, 44%)',
