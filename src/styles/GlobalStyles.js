@@ -5,6 +5,10 @@ export const GlobalStyles = createGlobalStyle`
   box-sizing: border-box;
 }
 
+body{
+    font-family: "Poppins", sans-serif;
+}
+
 img{
     max-width: 100%;
     display: block;
