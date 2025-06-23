@@ -5,13 +5,7 @@ const StyledDiv = styled.div`
     flex-direction: column;
     align-items: center;
 
-    @media screen and (max-width: 1255px){
-        &{
-            margin-top:40px;
 
-        }
-        
-    }
 
 `
 const StyledCardsDiv = styled.div`
