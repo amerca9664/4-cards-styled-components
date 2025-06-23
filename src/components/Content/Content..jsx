@@ -1,5 +1,5 @@
 import Card from '../Card/Card.jsx';
-import Titles from '../Titles/TItles';
+import Titles from '../Titles/Titles.jsx';
 import { StyledDiv, StyledCardsDiv } from './content.styles';
 import { INFOCARDS } from '../data.js';
 import { v4 } from 'uuid';
