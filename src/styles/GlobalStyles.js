@@ -7,6 +7,8 @@ export const GlobalStyles = createGlobalStyle`
 
 body{
     font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content:center;
 }
 
 img{

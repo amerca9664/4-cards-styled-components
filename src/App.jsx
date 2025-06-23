@@ -3,10 +3,10 @@ import { GlobalStyles } from './styles/GlobalStyles';
 
 const App = () => {
 	return (
-		<div>
+		<>
 			<GlobalStyles />
 			<Content></Content>
-		</div>
+		</>
 	);
 };
 
